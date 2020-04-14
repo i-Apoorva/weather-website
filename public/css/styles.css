@@ -52,14 +52,6 @@ button {
     color: white;
     background: #888888;
     padding: 8px;
+    margin-bottom: 10px;
 }
 
-#msg-1 {
-    margin-bottom: 16px;
-    padding: 8px;
-}
-
-#msg-2 {
-    margin-top: 8px;
-    padding: 8px;
-}
